@@ -1,0 +1,1 @@
+Adicionado arquivo de texto

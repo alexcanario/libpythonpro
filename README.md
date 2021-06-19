@@ -33,5 +33,5 @@ Tópicos a serem abordados:
  4. Mock
  5. Pipenv
 
-Estou aprendendo a contribuir
+Estou aprendendo a contribuir, ainda
  
